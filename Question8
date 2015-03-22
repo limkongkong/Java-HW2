@@ -1,0 +1,12 @@
+public class Question8 {
+
+    public static void main(String[] args) {
+    	System.out.println("Radius is 5.5");
+    	System.out.println("perimeter = 2 * radius * Pi is" );
+    	System.out.println(3.14 * 5* 2 );
+    	System.out.println("area = radius * radius * pi");
+    	System.out.println(5.5*5.5 * 3.14 );
+    }
+    
+    
+}
