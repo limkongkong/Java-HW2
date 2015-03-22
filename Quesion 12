@@ -1,0 +1,18 @@
+public class Question12 {
+	
+	public static void main (String[] args){
+		System.out.println("a runner runs 24 miles in 1 hour, 40 minutes, and 35 seconds");
+		System.out.println("40/60 is ");
+		System.out.println(40/60);
+		System.out.println("35/(60*60) is ");
+		System.out.println(35/(60*60));
+		System.out.println("Total hour is ");
+		System.out.println(1+ (40/60)+(35/(60*60)));
+		System.out.println("24 mile is ");
+		System.out.println(24*1.6);
+		System.out.println("the average speed in kilometers per hour is ");
+		System.out.println((24*1.6)/(1+ (40/60)+(35/(60*60))));
+		
+	}
+
+}
